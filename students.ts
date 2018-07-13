@@ -4,7 +4,7 @@ class Student {
     SAT: number;
     Active: boolean;
 
-    constructor(Id: number, Name: string, , SAT: number, Active: boolean)
+    constructor(Id: number, Name: string, SAT: number, Active: boolean)
     {
         this.Id = Id;
         this.Name = Name;
